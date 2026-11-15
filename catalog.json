@@ -1,12 +1,396 @@
 {
   "name": "BrickKit",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "license": "CC0-1.0 AND MIT",
   "author": "Kun (Kun97 / 坤九七)",
   "homepage": "https://kun97.tech",
   "explorer": "https://kun97.tech/video-studio/",
-  "total": 1053,
+  "total": 1077,
   "items": [
+    {
+      "id": "brick-ai-logo-chatgpt",
+      "title": "ChatGPT 六瓣涡旋花结积木立体徽标",
+      "category": "AI与算力",
+      "category_en": "AI & Compute",
+      "path": "assets/ai-compute/brick-ai-logo-chatgpt.webp",
+      "size": "1440×1335",
+      "tags": [
+        "AI与算力",
+        "AI标识",
+        "ChatGPT",
+        "OpenAI",
+        "大模型"
+      ],
+      "description": "ChatGPT 六瓣涡旋花结积木立体徽标。翡翠青绿圆角积木厚底托上，立体凸起六瓣交织旋转的洁白圆弧积木花结浮雕，中心留正六边形镂空。"
+    },
+    {
+      "id": "brick-ai-logo-claude",
+      "title": "Claude 陶土暖橙放射星芒积木立体徽标",
+      "category": "AI与算力",
+      "category_en": "AI & Compute",
+      "path": "assets/ai-compute/brick-ai-logo-claude.webp",
+      "size": "1430×1440",
+      "tags": [
+        "AI与算力",
+        "AI标识",
+        "Claude",
+        "Anthropic",
+        "大模型"
+      ],
+      "description": "Claude 陶土暖橙放射星芒积木立体徽标。暖奶油米白圆角方砖底座上，立着标志性陶土暖橙色十二道长短交错圆头积木光芒组成的太阳火花…"
+    },
+    {
+      "id": "brick-ai-logo-gemini",
+      "title": "Gemini 四角星芒蓝紫双色积木立体徽标",
+      "category": "AI与算力",
+      "category_en": "AI & Compute",
+      "path": "assets/ai-compute/brick-ai-logo-gemini.webp",
+      "size": "1361×1440",
+      "tags": [
+        "AI与算力",
+        "AI标识",
+        "Gemini",
+        "Google",
+        "大模型"
+      ],
+      "description": "Gemini 四角星芒蓝紫双色积木立体徽标。厚实饱满的四尖内凹弧面大星芒立体雕塑，由清爽晴空蓝、宝蓝与柔和暖紫积木曲面砖精密拼合…"
+    },
+    {
+      "id": "brick-ai-logo-deepseek",
+      "title": "DeepSeek 蔚蓝跃浪小鲸鱼积木立体徽标",
+      "category": "AI与算力",
+      "category_en": "AI & Compute",
+      "path": "assets/ai-compute/brick-ai-logo-deepseek.webp",
+      "size": "1440×1102",
+      "tags": [
+        "AI与算力",
+        "AI标识",
+        "DeepSeek",
+        "鲸鱼",
+        "国产大模型"
+      ],
+      "description": "DeepSeek 蔚蓝跃浪小鲸鱼积木立体徽标。灵动昂首跃起的宝蓝色圆润积木小鲸鱼造型，洁白弧面肚皮，上扬鱼尾旁点缀两颗晶莹天蓝小水…"
+    },
+    {
+      "id": "brick-ai-logo-grok",
+      "title": "Grok 黑曜圆环斜切光刃积木立体徽标",
+      "category": "AI与算力",
+      "category_en": "AI & Compute",
+      "path": "assets/ai-compute/brick-ai-logo-grok.webp",
+      "size": "1328×1440",
+      "tags": [
+        "AI与算力",
+        "AI标识",
+        "Grok",
+        "xAI",
+        "推理模型"
+      ],
+      "description": "Grok 黑曜圆环斜切光刃积木立体徽标。温润深炭黑圆角方底座上，立着一枚洁白倾斜圆环轨道与一道利落斜穿而过的白色积木光刃，暗部通透…"
+    },
+    {
+      "id": "brick-ai-logo-perplexity",
+      "title": "Perplexity 青碧几何星盘折页积木徽标",
+      "category": "AI与算力",
+      "category_en": "AI & Compute",
+      "path": "assets/ai-compute/brick-ai-logo-perplexity.webp",
+      "size": "1440×1387",
+      "tags": [
+        "AI与算力",
+        "AI标识",
+        "Perplexity",
+        "AI搜索",
+        "知识检索"
+      ],
+      "description": "Perplexity 青碧几何星盘折页积木徽标。深海蓝圆角底座中央，八片清爽青碧绿斜切积木翼片围绕竖轴对称展开成精密立体几何折面星盘。"
+    },
+    {
+      "id": "brick-ai-logo-llama",
+      "title": "Meta Llama 科技蓝无限双环积木立体徽标",
+      "category": "AI与算力",
+      "category_en": "AI & Compute",
+      "path": "assets/ai-compute/brick-ai-logo-llama.webp",
+      "size": "1440×1079",
+      "tags": [
+        "AI与算力",
+        "AI标识",
+        "Llama",
+        "Meta",
+        "开源模型"
+      ],
+      "description": "Meta Llama 科技蓝无限双环积木立体徽标。饱满流畅的明亮科技蓝与清爽天蓝积木弯管在空中优雅扭转交汇，拼搭成一个立体光滑的莫…"
+    },
+    {
+      "id": "brick-ai-logo-mistral",
+      "title": "Mistral 暖色三阶像素图腾积木立体徽标",
+      "category": "AI与算力",
+      "category_en": "AI & Compute",
+      "path": "assets/ai-compute/brick-ai-logo-mistral.webp",
+      "size": "1368×1440",
+      "tags": [
+        "AI与算力",
+        "AI标识",
+        "Mistral",
+        "开源模型",
+        "欧洲AI"
+      ],
+      "description": "Mistral 暖色三阶像素图腾积木立体徽标。由阳光明黄、积木暖橙与柔和珊瑚红正方形积木块按三层阶梯对称堆叠而成的立体像素双峰图腾…"
+    },
+    {
+      "id": "brick-ai-logo-cursor",
+      "title": "Cursor 立体切面棱镜编程光标积木徽标",
+      "category": "AI与算力",
+      "category_en": "AI & Compute",
+      "path": "assets/ai-compute/brick-ai-logo-cursor.webp",
+      "size": "1440×1417",
+      "tags": [
+        "AI与算力",
+        "AI标识",
+        "Cursor",
+        "Vibe Coding",
+        "AI编程"
+      ],
+      "description": "Cursor 立体切面棱镜编程光标积木徽标。深炭灰与浅银灰拼合的等距立体六边形立方体核心，正面立体嵌出一枚锐利指向右上方的纯白折面…"
+    },
+    {
+      "id": "brick-ai-logo-codex",
+      "title": "Codex 深蓝六角终端核心积木立体徽标",
+      "category": "AI与算力",
+      "category_en": "AI & Compute",
+      "path": "assets/ai-compute/brick-ai-logo-codex.webp",
+      "size": "1281×1440",
+      "tags": [
+        "AI与算力",
+        "AI标识",
+        "Codex",
+        "Agent",
+        "AI编程"
+      ],
+      "description": "Codex 深蓝六角终端核心积木立体徽标。厚实稳重的深海蓝正六边形积木装甲块，正面凹槽内嵌发光翡翠青色折角大于号与横条组成的极简终…"
+    },
+    {
+      "id": "brick-ai-logo-copilot",
+      "title": "GitHub Copilot 天蓝飞行护目镜领航积木徽标",
+      "category": "AI与算力",
+      "category_en": "AI & Compute",
+      "path": "assets/ai-compute/brick-ai-logo-copilot.webp",
+      "size": "1440×1371",
+      "tags": [
+        "AI与算力",
+        "AI标识",
+        "Copilot",
+        "GitHub",
+        "代码助手"
+      ],
+      "description": "GitHub Copilot 天蓝飞行护目镜领航积木徽标。圆润深蓝灰积木领航员小头盔，额头翻起一副醒目的清爽天蓝色双镜片流线型飞行…"
+    },
+    {
+      "id": "brick-ai-logo-windsurf",
+      "title": "Windsurf 海青三重破浪风帆积木立体徽标",
+      "category": "AI与算力",
+      "category_en": "AI & Compute",
+      "path": "assets/ai-compute/brick-ai-logo-windsurf.webp",
+      "size": "1355×1440",
+      "tags": [
+        "AI与算力",
+        "AI标识",
+        "Windsurf",
+        "Cline",
+        "AI编辑器"
+      ],
+      "description": "Windsurf 海青三重破浪风帆积木立体徽标。干净奶油白底座上，三片由海青蓝渐变为纯白的流线型弧面风帆积木块依次迎风扬起，造型轻…"
+    },
+    {
+      "id": "brick-ai-logo-doubao",
+      "title": "豆包 AI 科技蓝微笑圆舱积木立体徽标",
+      "category": "AI与算力",
+      "category_en": "AI & Compute",
+      "path": "assets/ai-compute/brick-ai-logo-doubao.webp",
+      "size": "1341×1440",
+      "tags": [
+        "AI与算力",
+        "AI标识",
+        "豆包",
+        "字节AI",
+        "语音助手"
+      ],
+      "description": "豆包 AI 科技蓝微笑圆舱积木立体徽标。圆润饱满的明亮科技蓝积木太空帽圆环内，嵌着温暖奶油白弯眼微笑小豆子核心，头顶点缀一颗天蓝小…"
+    },
+    {
+      "id": "brick-ai-logo-kimi",
+      "title": "Kimi 夜蓝新月伴星积木立体徽标",
+      "category": "AI与算力",
+      "category_en": "AI & Compute",
+      "path": "assets/ai-compute/brick-ai-logo-kimi.webp",
+      "size": "1399×1440",
+      "tags": [
+        "AI与算力",
+        "AI标识",
+        "Kimi",
+        "月之暗面",
+        "长文本AI"
+      ],
+      "description": "Kimi 夜蓝新月伴星积木立体徽标。深邃夜空蓝圆盘积木底座上，立体浮起一弯皎洁奶油白新月弧面砖，右上角点缀一颗清爽天蓝四角小星粒。"
+    },
+    {
+      "id": "brick-ai-logo-qwen",
+      "title": "通义千问 Qwen 靛紫几何星环积木立体徽标",
+      "category": "AI与算力",
+      "category_en": "AI & Compute",
+      "path": "assets/ai-compute/brick-ai-logo-qwen.webp",
+      "size": "1370×1440",
+      "tags": [
+        "AI与算力",
+        "AI标识",
+        "Qwen",
+        "通义千问",
+        "开源大模型"
+      ],
+      "description": "通义千问 Qwen 靛紫几何星环积木立体徽标。由温和靛紫、宝蓝与天蓝菱形积木斜面砖围绕中心六角镂空精密旋转咬合而成的立体多维几何星…"
+    },
+    {
+      "id": "brick-ai-logo-hunyuan",
+      "title": "混元蓝青双旋涡流圆章积木立体徽标",
+      "category": "AI与算力",
+      "category_en": "AI & Compute",
+      "path": "assets/ai-compute/brick-ai-logo-hunyuan.webp",
+      "size": "1414×1440",
+      "tags": [
+        "AI与算力",
+        "AI标识",
+        "混元",
+        "腾讯AI",
+        "大模型"
+      ],
+      "description": "混元蓝青双旋涡流圆章积木立体徽标。饱满宝蓝与清爽青绿两股圆润流线型积木旋臂首尾环抱、围绕中心洁白圆核旋转而成的立体太极涡流圆章。"
+    },
+    {
+      "id": "brick-ai-logo-midjourney",
+      "title": "Midjourney 乘风破浪双白帆积木立体徽标",
+      "category": "AI与算力",
+      "category_en": "AI & Compute",
+      "path": "assets/ai-compute/brick-ai-logo-midjourney.webp",
+      "size": "1195×1440",
+      "tags": [
+        "AI与算力",
+        "AI标识",
+        "Midjourney",
+        "AI生图",
+        "视觉创作"
+      ],
+      "description": "Midjourney 乘风破浪双白帆积木立体徽标。深海蓝双道波浪弧面底座上，两片高耸利落的纯白斜切大三角积木船帆迎风鼓起，极简航海…"
+    },
+    {
+      "id": "brick-ai-logo-sora",
+      "title": "Sora 彩光镜头光圈视频棱镜积木徽标",
+      "category": "AI与算力",
+      "category_en": "AI & Compute",
+      "path": "assets/ai-compute/brick-ai-logo-sora.webp",
+      "size": "1424×1440",
+      "tags": [
+        "AI与算力",
+        "AI标识",
+        "Sora",
+        "可灵",
+        "AI视频"
+      ],
+      "description": "Sora 彩光镜头光圈视频棱镜积木徽标。由清爽天蓝、积木暖橙与柔和紫半透明晶莹积木弧片围成镜头光圈圆环，正中央悬浮一枚纯白立体播放…"
+    },
+    {
+      "id": "brick-ai-logo-elevenlabs",
+      "title": "ElevenLabs 双柱声波音律积木立体徽标",
+      "category": "AI与算力",
+      "category_en": "AI & Compute",
+      "path": "assets/ai-compute/brick-ai-logo-elevenlabs.webp",
+      "size": "1440×1421",
+      "tags": [
+        "AI与算力",
+        "AI标识",
+        "ElevenLabs",
+        "FishAudio",
+        "AI配音"
+      ],
+      "description": "ElevenLabs 双柱声波音律积木立体徽标。干净奶油白圆角方底座中央并排耸立两根高挑利落的深炭黑丝光积木音柱，左右两侧悬浮四颗…"
+    },
+    {
+      "id": "brick-ai-logo-comfyui",
+      "title": "ComfyUI 彩色节点连线工作流积木徽标",
+      "category": "AI与算力",
+      "category_en": "AI & Compute",
+      "path": "assets/ai-compute/brick-ai-logo-comfyui.webp",
+      "size": "1440×1131",
+      "tags": [
+        "AI与算力",
+        "AI标识",
+        "ComfyUI",
+        "工作流",
+        "节点编排"
+      ],
+      "description": "ComfyUI 彩色节点连线工作流积木徽标。深岩灰圆角积木底板上，温润森绿、清爽天蓝、积木暖橙三块圆凸粒模块通过弯曲彩色软管积木件…"
+    },
+    {
+      "id": "brick-ai-logo-huggingface",
+      "title": "Hugging Face 暖黄笑脸拥抱积木立体徽标",
+      "category": "AI与算力",
+      "category_en": "AI & Compute",
+      "path": "assets/ai-compute/brick-ai-logo-huggingface.webp",
+      "size": "1440×1313",
+      "tags": [
+        "AI与算力",
+        "AI标识",
+        "HuggingFace",
+        "开源社区",
+        "模型库"
+      ],
+      "description": "Hugging Face 暖黄笑脸拥抱积木立体徽标。温暖阳光明黄色圆饼笑脸积木圆章，配深棕弯弯笑眼与微笑弧线，左右两侧探出一对热情…"
+    },
+    {
+      "id": "brick-ai-logo-ollama",
+      "title": "Ollama 纯白呆萌小羊驼积木立体雕像",
+      "category": "AI与算力",
+      "category_en": "AI & Compute",
+      "path": "assets/ai-compute/brick-ai-logo-ollama.webp",
+      "size": "746×1440",
+      "tags": [
+        "AI与算力",
+        "AI标识",
+        "Ollama",
+        "本地大模型",
+        "端侧推理"
+      ],
+      "description": "Ollama 纯白呆萌小羊驼积木立体雕像。用干净奶油白丝光圆角积木砖拼搭的长脖子竖耳朵呆萌小羊驼半身胸像徽标，镶两颗乌黑圆粒眼睛…"
+    },
+    {
+      "id": "brick-ai-logo-openrouter",
+      "title": "OpenRouter 一分三多路模型路由积木徽标",
+      "category": "AI与算力",
+      "category_en": "AI & Compute",
+      "path": "assets/ai-compute/brick-ai-logo-openrouter.webp",
+      "size": "1440×1159",
+      "tags": [
+        "AI与算力",
+        "AI标识",
+        "OpenRouter",
+        "API路由",
+        "模型聚合"
+      ],
+      "description": "OpenRouter 一分三多路模型路由积木徽标。浅银白圆角积木底盘上，左侧一条深海蓝输入干道平滑分叉连接右侧暖橙、森绿、天蓝三枚…"
+    },
+    {
+      "id": "brick-ai-logo-mcp",
+      "title": "MCP 万能协议双插头精密咬合积木徽标",
+      "category": "AI与算力",
+      "category_en": "AI & Compute",
+      "path": "assets/ai-compute/brick-ai-logo-mcp.webp",
+      "size": "1440×906",
+      "tags": [
+        "AI与算力",
+        "AI标识",
+        "MCP",
+        "Agent协议",
+        "工具调用"
+      ],
+      "description": "MCP 万能协议双插头精密咬合积木徽标。左侧深海蓝与右侧积木暖橙两枚精密立体接口积木块，通过中间四颗阳光金圆凸粒插销严丝合缝咬合对接。"
+    },
     {
       "id": "brick-ai-adversarial-swords",
       "title": "蓝剑与橙盾交叉碰撞检验真伪积木徽章",

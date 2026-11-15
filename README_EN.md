@@ -3,7 +3,7 @@
 <div align="center">
   <img src="docs/images/showcase/app-icon.png" width="112" alt="BrickKit">
   <h1>BrickKit · Open-Source 2.5D Brick Asset Pack</h1>
-  <p><strong>1,053 cohesive 2.5D satin-ABS brick illustrations with clean transparent alpha — free for commercial &amp; personal use (CC0 / MIT).</strong></p>
+  <p><strong>1,077 cohesive 2.5D satin-ABS brick illustrations with clean transparent alpha — free for commercial &amp; personal use (CC0 / MIT).</strong></p>
   <p>Halo-free alpha edges · 1440p crisp masters · Built for video creators, thumbnails, slides, web UI &amp; Remotion</p>
   <p>
     <a href="https://kun97.tech/video-studio/"><strong>🔍 Live Search &amp; 1-Click PNG Download (kun97.tech)</strong></a>
@@ -18,7 +18,7 @@
 
 ![BrickKit Showcase](docs/images/showcase/hero-brickkit.png)
 
-## What's Inside (1,053 Assets · 12 Categories)
+## What's Inside (1,077 Assets · 12 Categories)
 
 Every asset in **BrickKit** shares a unified studio softbox lighting setup, tactile satin ABS brick seams, and decontaminated transparent edges that composite cleanly onto light cream cards, dark backgrounds, or video timelines.
 
@@ -26,7 +26,7 @@ Every asset in **BrickKit** shares a unified studio softbox lighting setup, tact
 | --- | --- | ---: |
 | **Life & Spaces** | [`assets/life-spaces/`](assets/life-spaces/) | **139** |
 | **Nature & Fables** | [`assets/nature-fables/`](assets/nature-fables/) | **117** |
-| **AI & Compute** | [`assets/ai-compute/`](assets/ai-compute/) | **111** |
+| **AI & Compute** | [`assets/ai-compute/`](assets/ai-compute/) | **135** |
 | **Tech & Dev** | [`assets/tech-dev/`](assets/tech-dev/) | **106** |
 | **Business & Work** | [`assets/business-work/`](assets/business-work/) | **94** |
 | **Creator & Media** | [`assets/creator-media/`](assets/creator-media/) | **88** |
@@ -36,7 +36,7 @@ Every asset in **BrickKit** shares a unified studio softbox lighting setup, tact
 | **UI & Controls** | [`assets/ui-controls/`](assets/ui-controls/) | **64** |
 | **Science & Education** | [`assets/science-edu/`](assets/science-edu/) | **64** |
 | **Characters & Poses** | [`assets/characters-poses/`](assets/characters-poses/) | **58** |
-| **Total** | [`catalog.json`](catalog.json) | **1,053** |
+| **Total** | [`catalog.json`](catalog.json) | **1,077** |
 
 ## Quick Start
 
