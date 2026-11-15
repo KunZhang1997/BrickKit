@@ -81,9 +81,9 @@ python3 scripts/export_png.py
 
 ---
 
-## 关于作者 Kun（坤九七）
+## 关于作者 Kun
 
-你好，我是 **Kun（坤九七）**，一名持续做独立软件与科技实测视频的创作者。欢迎顺路去我的 3D 积木个人主页和其他开源项目逛逛：
+你好，我是 **Kun**，一名持续做独立软件与科技实测视频的创作者。欢迎顺路去我的 3D 积木个人主页和其他开源项目逛逛：
 
 - 🌲 **[kun97.tech](https://kun97.tech)** — 我的可交互 3D 积木森林个人主页与创作空间
 - 🎙️ **[SpeakSend](https://github.com/KunZhang1997/SpeakSend)** — macOS 语音直输、混合笔记与个人想法网络工具
